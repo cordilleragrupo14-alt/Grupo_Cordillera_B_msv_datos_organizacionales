@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ms-datos-organizacionales.iml" filepath="$PROJECT_DIR$/.idea/ms-datos-organizacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grupo_Cordillera_B_msv_datos_organizacionales.iml" filepath="$PROJECT_DIR$/.idea/Grupo_Cordillera_B_msv_datos_organizacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-datos-organizacionales/ms-datos-organizacionales.iml" filepath="$PROJECT_DIR$/ms-datos-organizacionales/ms-datos-organizacionales.iml" />
     </modules>
   </component>
 </project>
